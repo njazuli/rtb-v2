@@ -1,0 +1,43 @@
+{
+    "response": [{
+            "id": "nasional",
+            "id_no": "4",
+            "description": "<i>Menyebar Informasi Menjana Inspirasi</i>",
+            "channel_title": "NASIONAL FM​​​",
+            "image": "https://cdn-rtb.glueapi.io/v1/content/4/image/300x0/images.title?quality=100",
+            "embed_link": "https://rtb-player.glueapi.io/latest/p/4?skin=title"
+        },
+        {
+            "id": "pilihan",
+            "id_no": "7",
+            "description": "<i>Simply Your Choice</i>",
+            "channel_title": "​PILIHAN FM​​​",
+            "image": "https://cdn-rtb.glueapi.io/v1/content/7/image/300x0/images.title?quality=100",
+            "embed_link": "https://rtb-player.glueapi.io/latest/p/7?skin=title"
+        },
+        {
+            "id": "pelangi",
+            "id_no": "6",
+            "description": "<i>Penghibur Penggerak Minda</i>",
+            "channel_title": "PELANGI FM​​​",
+            "image": "https://cdn-rtb.glueapi.io/v1/content/6/image/300x0/images.title?quality=100",
+            "embed_link": "https://rtb-player.glueapi.io/latest/p/6?skin=title"
+        },
+        {
+            "id": "harmoni",
+            "id_no": "3",
+            "description": "<i>Inspirasi Keluarga Bahagia</i>",
+            "channel_title": "HARMONI FM",
+            "image": "https://cdn-rtb.glueapi.io/v1/content/3/image/300x0/images.title?quality=100",
+            "embed_link": "https://rtb-player.glueapi.io/latest/p/3?skin=title"
+        },
+        {
+            "id": "rangkaiannurislam",
+            "id_no": "5",
+            "description": "<i>Wadah Tarbiyah Insani</i>",
+            "channel_title": "RANGKAIAN NUR ISLAM",
+            "image": "https://cdn-rtb.glueapi.io/v1/content/5/image/300x0/images.title?quality=100",
+            "embed_link": "https://rtb-player.glueapi.io/latest/p/5?skin=title"
+        }
+    ]
+}

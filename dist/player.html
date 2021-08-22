@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- Bootstrap CSS -->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://rtb-player.glueapi.io/latest/css/glueplyr.css"
+      type="text/css"
+    />
+
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://rtb-player.glueapi.io/latest/js/gluePlyrAPI.js"></script>
+    <title>RTBGO player</title>
+  </head>
+  <body>
+    <div class="w-100 h-100">
+      <div class="embed-responsive embed-responsive-16by9">
+        <iframe
+          class="embed-responsive-item"
+          id="video"
+          allowfullscreen
+        ></iframe>
+      </div>
+    </div>
+
+    <script type="text/javascript">
+      $(document).ready(function() {
+        var playerID = getUrlVars()["id"];
+        playID(playerID);
+      });
+
+      function getUrlVars() {
+        var vars = {};
+        var parts = window.location.href.replace(
+          /[?&]+([^=&]+)=([^&]*)/gi,
+          function(m, key, value) {
+            vars[key] = value;
+          }
+        );
+        return vars;
+      }
+
+      function playID(value) {
+        var gluePlayer = new GluePlyr();
+        var video = document.getElementById("video");
+        gluePlayer.setup(value, {
+          apiPath: "https://rtb.glueapi.io",
+          svgPath: "/latest",
+          target: video,
+          poster: "",
+          site: "RTB",
+          type: "video",
+          skin: "0",
+          ads: {
+            enabled: true,
+            tagUrl:
+              "https://pubads.g.doubleclick.net/gampad/ads?iu=/22163595876/RTBGo_Web_Video&description_url=https%3A%2F%2Fwww.rtbgo.bn%2F&tfcd=0&npa=0&sz=640x480&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&impl=s&correlator=",
+            contentType: "ondemand",
+            cmsid: "glue",
+            vid: value,
+          },
+        });
+      }
+    </script>
+  </body>
+</html>

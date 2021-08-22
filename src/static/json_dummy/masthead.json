@@ -1,0 +1,121 @@
+{
+  "response": [
+    {
+      "enable": "true",
+      "titleId": "PLaXOt0nSNIuY5S8PCKDk7teDTCEt-z1kq",
+      "view_type": "playlist",
+      "externallink": "",
+      "asset_id": "https://baseimages.tonton.com.my/1561015181958_CTD-Masthead(800x450).jpg",
+      "asset_id_tablet": "https://baseimages.tonton.com.my/1561015181958_CTD-Masthead(800x450).jpg",
+      "event": false,
+      "title_type": "internal"
+    },
+    {
+      "embed_code": "",
+      "enable": true,
+      "titleId": "PLaXOt0nSNIuafEyGu8ITUgglW1RP3Ua0A",
+      "description": "",
+      "view_type": "playlist",
+      "externallink": "",
+      "asset_id": "https://baseimages.tonton.com.my/1561015454941_mastheadbca(800x450).jpg",
+      "title": "",
+      "event": false,
+      "asset_id_tablet": "https://baseimages.tonton.com.my/1561015454941_mastheadbca(800x450).jpg",
+      "details_url": "",
+      "title_type": "internal"
+    },
+    {
+      "embed_code": "",
+      "enable": "true",
+      "view_type": "external",
+      "description": "",
+      "externallink": "http://bit.ly/2K9bobB",
+      "asset_id": "https://baseimages.tonton.com.my/1561533120817_Next-Image-2019-(W800-X-H450-Pixel)002.jpg",
+      "asset_id_tablet": "https://baseimages.tonton.com.my/1561533120817_Next-Image-2019-(W800-X-H450-Pixel)002.jpg",
+      "details_url": "",
+      "title": "",
+      "event": true,
+      "title_type": "external"
+    },
+    {
+      "enable": "true",
+      "titleId": "PLaXOt0nSNIuYKwU-OZBfbM3p5FEu0HgC_",
+      "view_type": "playlist",
+      "externallink": "",
+      "asset_id": "https://baseimages.tonton.com.my/1561455278348_AC---masthead.jpg",
+      "asset_id_tablet": "https://baseimages.tonton.com.my/1561455278348_AC---masthead.jpg",
+      "event": false,
+      "title_type": "internal"
+    },
+    {
+      "embed_code": "",
+      "enable": true,
+      "titleId": "PLaXOt0nSNIua86-0mJ10S6dIQzu1GTZgm",
+      "description": "",
+      "view_type": "playlist",
+      "externallink": "",
+      "asset_id": "https://baseimages.tonton.com.my/1561015503139_KCP-masthead(800x450).jpg",
+      "title": "",
+      "event": false,
+      "asset_id_tablet": "https://baseimages.tonton.com.my/1561015503139_KCP-masthead(800x450).jpg",
+      "details_url": "",
+      "title_type": "internal"
+    },
+    {
+      "embed_code": "",
+      "enable": "true",
+      "titleId": "PLIBa8otTsBwv7MUHdP1HyYrDdLIxGebzs",
+      "view_type": "playlist",
+      "description": "",
+      "externallink": "",
+      "asset_id": "https://baseimages.tonton.com.my/1555414383798_DW-Founders-Valley-2.png",
+      "asset_id_tablet": "https://baseimages.tonton.com.my/1555414383798_DW-Founders-Valley-2.png",
+      "details_url": "",
+      "title": "",
+      "event": true,
+      "title_type": "internal"
+    },
+    {
+      "embed_code": "k6SGELUGa7Sbt3rI4QO",
+      "enable": true,
+      "titleId": "AlJazeera",
+      "description": "Al Jazeera English provides international news and current affairs that places people at the heart of the story, rooted in the belief that everyone has a story worth hearing.",
+      "view_type": "live",
+      "externallink": "",
+      "asset_id": "https://baseimages.tonton.com.my/1552967691619_logo-800-_-450 (1).jpg",
+      "title": "Al Jazeera English",
+      "event": false,
+      "asset_id_tablet": "https://baseimages.tonton.com.my/1552967691619_logo-800-_-450 (1).jpg",
+      "details_url": "",
+      "title_type": "internal"
+    },
+    {
+      "embed_code": "x6vgouw",
+      "enable": true,
+      "titleId": "dw_channel",
+      "view_type": "live",
+      "description": "",
+      "externallink": "",
+      "asset_id": "https://baseimages.tonton.com.my/1553652430459_DW-Kick-off-RGB_Sendungslogo 800x450.jpg",
+      "asset_id_tablet": "https://baseimages.tonton.com.my/1553652430459_DW-Kick-off-RGB_Sendungslogo 800x450.jpg",
+      "details_url": "",
+      "title": "",
+      "event": false,
+      "title_type": "internal"
+    },
+    {
+      "embed_code": "",
+      "enable": "true",
+      "titleId": "PLIBa8otTsBwvMprjgpmuqPJ5P11aowMX7",
+      "description": "",
+      "view_type": "playlist",
+      "externallink": "",
+      "asset_id": "https://baseimages.tonton.com.my/1553652976989_800x450_Dresscode.jpg",
+      "title": "",
+      "event": false,
+      "asset_id_tablet": "https://baseimages.tonton.com.my/1553652976989_800x450_Dresscode.jpg",
+      "details_url": "",
+      "title_type": "internal"
+    }
+  ]
+}
